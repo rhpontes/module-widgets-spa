@@ -7,7 +7,7 @@ version module widgets application
  
 ## Intructions
 1. Clone the repository
-2. Install dependencies with npm install
+2. Install dependencies with npm install    
 >npm install
 3. Run the application
 >node app.js
